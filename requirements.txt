@@ -1,0 +1,7 @@
+Flask>=2.3.0
+dateparser>=1.2.0
+parsedatetime>=2.9
+spacy>=3.7.0
+pytest>=7.4.0
+python-dateutil>=2.8.0
+
