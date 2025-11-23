@@ -26,7 +26,7 @@ class Parser:
         'monday', 'mon', 'tuesday', 'tue', 'wednesday', 'wed', 'thursday', 'thu', 'friday', 'fri', 'saturday', 'sat', 'sunday', 'sun',
         'january', 'jan', 'february', 'feb', 'march', 'mar', 'april', 'apr', 'may', 'june', 'jun',
         'july', 'jul', 'august', 'aug', 'september', 'sep', 'october', 'oct', 'november', 'nov', 'december', 'dec',
-        'am', 'pm', 'noon', 'midnight', 'at', 'in', 'on', 'next', 'this', 'last',
+        'am', 'pm', 'noon', 'midnight', 'at', '@', 'in', 'on', 'next', 'this', 'last',
         'remind', 'me', 'to', 'night'
     }
     
@@ -36,7 +36,7 @@ class Parser:
     }
     
     NUMBER_WORDS = {
-        'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten',
+       'zero' 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten', 'eleven', 'twelve',
         'twenty', 'thirty', 'forty', 'fifty'
     }
     
